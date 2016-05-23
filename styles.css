@@ -1,0 +1,53 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-image: url(snow-art2.jpg); /*image from viralnova.com */
+	background-repeat: repeat;
+	border-radius: 15px;
+	padding: 10px;
+
+}
+
+.animal-card {
+	width: 300px;
+	border: 4px solid;
+	box-shadow: 10px;
+	padding: 10px;
+}
+
+h1 {
+	padding: 10px;
+}
+
+.information-border {
+	border-radius: 10px;
+	border: 2px solid;
+	padding: 20px;
+	background-color: skyblue;
+}
+
+.about {
+	font-style: italic;
+}
+
+.description {
+	font-weight: bold;
+}
+
+.info {
+	font-style: italic;
+}
+
+p {
+	margin: 5px;
+
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.card-image {
+	width: 300px;
+	padding: 2px;
+}
